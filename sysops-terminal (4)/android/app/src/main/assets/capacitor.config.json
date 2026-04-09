@@ -1,0 +1,6 @@
+{
+	"appId": "com.sysops.terminal",
+	"appName": "SysOps Terminal",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
